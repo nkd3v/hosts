@@ -30,6 +30,9 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 0.0.0.0 www.lottovip.pro
 0.0.0.0 www.lottovipteam.com
+0.0.0.0 lottovip.pro
+0.0.0.0 lottovipteam.com
+0.0.0.0 www.lottovip.com
 
 # End of custom host records.
 # Start StevenBlack
